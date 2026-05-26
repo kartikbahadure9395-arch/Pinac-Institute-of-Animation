@@ -1,0 +1,6 @@
+{
+  "name": "Pinac Smart Attend",
+  "description": "Enterprise AI Attendance Platform for Pinac Institute of Animation. AI-powered, fraud-proof, with GPS lock and smart predictive alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
